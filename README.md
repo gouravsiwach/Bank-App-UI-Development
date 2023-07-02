@@ -1,0 +1,2 @@
+# Bank-App-UI-Developent
+Developed a visually appealing and responsive banking application user interface (UI) using HTML, CSS, and JavaScript. Implemented key features such as login form, balance display, transaction movements, summary section, and operation sections for money transfers, loan requests, and account closure. Ensured clean and organized code, focusing on modularity and reusability. Demonstrated proficiency in front-end web development and attention to detail.
